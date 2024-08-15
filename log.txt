@@ -1,0 +1,3993 @@
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<123 join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:quit<<123 exit chatroom>>
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<dads join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<dads join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<dasd join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<dasd join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dasd]:quit<<dasd exit chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dasd]:quit<<dasd exit chatroom>>
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dads]:quit<<dads exit chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dads]:quit<<dads exit chatroom>>
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<csdc join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<csdc join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:<<csdc join chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[csdc]:quit<<csdc exit chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[csdc]:quit<<csdc exit chatroom>>
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[csdc]:quit<<csdc exit chatroom>>
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:================ ypd1 join chatroom ====================
+[ypd1]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:================ ypd2 join chatroom ====================
+[ypd2]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:================ ypd2 join chatroom ====================
+[ypd2]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd2]:ferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd2]:ferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd2]:ferf eferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd2]:ferf eferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd2]:quit
+=================== ypd2 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd2]:quit
+=================== ypd2 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+=================== ypd1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+=================== ypd1 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ 31231 join chatroom ====================
+[31231]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwerw join chatroom ====================
+[rwerw]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwerw join chatroom ====================
+[rwerw]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:quit
+=================== rwerw exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:quit
+=================== rwerw exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[31231]:quit
+=================== 31231 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[31231]:quit
+=================== 31231 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ 123 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwr]:rwer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwr]:rwer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:rwrw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:rwrw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:rwrw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:rwrw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwr]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwr]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== rwr exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== rwr exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:quit
+=================== 123 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:quit
+=================== 123 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:dw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:dwd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:dew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:fef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fer join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fer join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fer]:fer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fer]:fer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fer]:ferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fer]:ferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fer]:rtg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fer]:rtg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ 123 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwerwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwerwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerwe]:fsdf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerwe]:fsdf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:fss
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:fss
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:fsdfsd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:fsdfsd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[123]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== 123 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== 123 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerwe]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== rwerwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwer join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ sfsd join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ sfsd join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:werwr
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:werwr
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== rwer exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ few join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwfw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwfw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:fwfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:fwfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwfw]:fwefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwfw]:fwefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwfw]:fwerfkdfpg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwfw]:fwerfkdfpg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:ffwfwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:ffwfwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== few exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dwed join chatroom ====================
+[dwed]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dwd join chatroom ====================
+[dwd]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dwd join chatroom ====================
+[dwd]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwd]:vdfv
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwd]:vdfv
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwd]:vdf weffwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwd]:vdf weffwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwd]:ffwff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwd]:ffwff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwed]:fewfwfef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwed]:fewfwfef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwed]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwed]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== dwed exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dfs join chatroom ====================
+[dfs]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfs]:sdsd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfs]:erger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fds join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fds]:fs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fds]:fs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ few join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ few join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:ff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:ff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[few]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== few exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== few exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwe join chatroom ====================
+[rwe]:
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwerw join chatroom ====================
+[rwerw]:
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwerw join chatroom ====================
+[rwerw]:
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:wrwe\
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:wrwe\
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:rwe 
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:rwe 
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:tert
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:tert
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:geg
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:geg
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:gerg reg
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:gerg reg
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:gegr 
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:gegr 
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:quit
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:quit
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:quit
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwerw]:quit
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwe join chatroom ====================
+[rwe]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:rwer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:rwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwer join chatroom ====================
+[rwer]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwer join chatroom ====================
+[rwer]:
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:gdfg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:gdfg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:rwer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:rwer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:quit
+=================== rwer exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwer]:quit
+=================== rwer exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== rwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ we join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ghj join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ghj join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:etrt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:etrt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:terter
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:terter
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:tert
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:tert
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:tert
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:tert
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ghj]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ghj exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ghj exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gerg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gerg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gergr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gergr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gergr]:hello test et
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gergr]:hello test et
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:okok no problem
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:okok no problem
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:8
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:8
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== gerg exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== gerg exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ YPD1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ WSD1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ WSD1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[WSD1]:kk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[WSD1]:kk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[YPD1]:oo
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[YPD1]:oo
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[YPD1]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[YPD1]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[WSD1]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[WSD1]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[YPD1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[YPD1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== YPD1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ we join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ tt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ tt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[tt]:fsdfds
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[tt]:fsdfds
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:fsfsfdfs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:fsfsfdfs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[tt]:fwkefkwepfefk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[tt]:fwkefkwepfefk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[tt]:fwef fvefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[tt]:fwef fvefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== we exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ew join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ui join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ui join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ui]:fsdfsd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ui]:fsdfsd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ew]:fsdfsds
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ew]:fsdfsds
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ew]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ew]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ew]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ew]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ew exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ew exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ui]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ypd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wsd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wsd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:tired
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:tired
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:me,too
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:me,too
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:ok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:ok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:wedwewde
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:wedwewde
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:wefwefwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:wefwefwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+=================== ypd1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+=================== ypd1 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:quit
+=================== wsd1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fewf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwewefw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwewefw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwewefw]:dwedw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwewefw]:dwedw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwewefw]:dwedwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwewefw]:dwedwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:dwedwd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:dwedwd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:dwedwddwd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:dwedwddwd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:dwedvfvrvvnef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:dwedvfvrvvnef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:okok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:okok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwewefw]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwewefw]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fewf]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fewf exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fsd join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ert join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ert join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ert]:terte
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ert]:terte
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ert]:te
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ert]:te
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsd]:tert tet
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsd]:tert tet
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ert]:okok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ert]:okok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsd]:ooppopoop
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsd]:ooppopoop
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsd]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsd]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fsd exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:i need to rest
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:i need to rest
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:go
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:go
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:quit
+=================== test1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:quit
+=================== test1 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test2 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwerfwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fsdf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fsdf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwerfwe]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwerfwe]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fwerfwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:fw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:fwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:fwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:fw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:fwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test1 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2233 join chatroom ====================
+[test2233]:wew[test2233]:w[test2233]:w
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:e[test2233]:quit
+=================== test2233 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ok? join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ok? join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:over
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:over
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:over
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:over
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:test
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:test
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:test echo
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:test echo
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:water
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:water
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:melon
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:melon
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:good
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:good
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ok?]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gg]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== gg exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ weqwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ i3rj2o3i join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ i3rj2o3i join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[i3rj2o3i]:fwfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[i3rj2o3i]:fwfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weqwe]:fwefff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weqwe]:fwefff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[i3rj2o3i]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[i3rj2o3i]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== i3rj2o3i exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== i3rj2o3i exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ewed join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ggrger join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ggrger join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ewed]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ewed]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ggrger]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ggrger]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ewed]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ewed]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ewed exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ werwegdf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ werwegdf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:sfdsfs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:sfdsfs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werwegdf]:rwerre
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werwegdf]:rwerre
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:quit
+=================== rwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rwe]:quit
+=================== rwe exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werwegdf]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== werwegdf exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:efjwkpfowef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:efjwkpfowef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:dqd refcwdfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:dqd refcwdfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:wfwefew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:wfwefew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:fwff  wfwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:fwff  wfwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:quit
+=================== test2 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:quit
+=================== test2 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ypd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wsd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wsd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:rofjopjfwfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:rofjopjfwfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:jwefwef[k
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:jwefwef[k
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ypd1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ypd1 exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wsd1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ypd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wsd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wsd1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:fwefwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wsd1]:fwefwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:thrht
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:thrht
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:99
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:99
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ypd1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ypd1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwefwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwefwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:abc
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:abc
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:abc
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwefwe]:quit
+=================== fwefwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwefwe]:quit
+=================== fwefwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwefwe]:quit
+=================== fwefwe exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fdfs join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rgre join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rgre join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ergty join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ergty join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ergty join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ hrthrthrt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ hrthrthrt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ hrthrthrt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ hrthrthrt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[hrthrthrt]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[hrthrthrt]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[hrthrthrt]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[hrthrthrt]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== hrthrthrt exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== hrthrthrt exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== hrthrthrt exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== hrthrthrt exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:weff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:weff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:few
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:few
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ui join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ui join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ui join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ui]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ui]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ui]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:88
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test2 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test2 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ttu join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ frfe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ frfe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ttu]:ferfee
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ttu]:ferfee
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[frfe]:erferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[frfe]:erferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[frfe]:fkerfp fkepfkep[ 
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[frfe]:fkerfp fkepfkep[ 
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ttu]:efefl
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ttu]:efefl
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ttu]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ttu]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ttu exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gt]:fsdfs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gt]:fsdfs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fe]:rwerwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fe]:rwerwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gt]:sfsd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gt]:sfsd
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gt]:quit
+=================== gt exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gt]:quit
+=================== gt exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fe]:quit
+=================== fe exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ efr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[efr]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== efr exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wefef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ferfer join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ferfer join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefef]:ferfer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefef]:ferfer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ferfer]:feferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ferfer]:feferf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ferfer]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ferfer]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ferfer exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ferfer exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ efwf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wfw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wfw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:fwfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:fwfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:frefer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:frefer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:eerof
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:eerof
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[efwf]:fiejfrpf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[efwf]:fiejfrpf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[efwf]: ofpf fopwff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[efwf]: ofpf fopwff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[efwf]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[efwf]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== efwf exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== efwf exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:grge[erfer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:erf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ eff join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ eff join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eff]:erf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eff]:erf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eff]:preog
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eff]:preog
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eff]:erfe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eff]:erfe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:fe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:fe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wfw]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wfw exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wfw exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:123
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:123
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:456
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:456
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:234
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:234
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:fef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:fef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:;vev
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:;vev
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:quit
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test1 exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wfef join chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fweff join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweff]:wefefe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweff]:wefefe
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fewp join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fweopf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fweopf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweopf]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweopf]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweopf]:gfpf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweopf]:gfpf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweopf]:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fweopf]:fwefw
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ g join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[g]:fsf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fsdf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fsdf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsdf]:erew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsdf]:erew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsdf]:rwer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fsdf]:rwer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[g]:rwerwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[g]:rwerwe
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ feww join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwefe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwefe join chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ed join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ erfef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ erfef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[erfef]:wef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[erfef]:wef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ed]:fwefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ed]:fwefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:someone exit chatroom
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:someone exit chatroom
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dwed join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:dwed
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:dwed
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:wed
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:wed
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:ff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:ff
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:quit
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ cwcw join chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dwedw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wefk join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wefk join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefk]:wef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefk]:wef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefk]:wfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefk]:wfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:dwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:dwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:q
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:q
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:u
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:u
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:i
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:i
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:t
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:t
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefk]:qquit?
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:wef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwedw]:wf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wefwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wefwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefwe]:we
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefwe]:we
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefwe]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefwe]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefwe]:q
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefwe]:q
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wefwe]:quit?
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ we join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ we join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:wdwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:wdwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:rg54g4
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:rg54g4
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dwe]:quit
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ regre join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ regre join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fwe exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:few
+=================== fwef exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:few
+=================== fwef exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:fwer
+=================== fwef exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ weff join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weff]:htr
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weff]:htr
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weff]:gergrp[
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weff]:gergrp[
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:kfwp[f
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:kfwp[f
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:fewf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwef]:fewf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weff]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weff]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[weff]:quit
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ hthr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ hthr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:gerger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:gerger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[hthr]:jyjt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[hthr]:jyjt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:wew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:wew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wef exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wef exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[hthr]:sfs
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== hthr exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ytj join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ku join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ku join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ytj]:pok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ytj]:pok
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ytj]:rt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ytj]:rt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== ytj exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fre join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ jt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ jt join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fre]:ptorkg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fre]:ptorkg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fre]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fre]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fre]:wefof\
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fre]:wefof\
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fre exit chatroom====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rger join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ th join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ th join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:hrt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:hrt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:erfgw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:erfgw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:wopkkeg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:wopkkeg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:h45
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:h45
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:3op5
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:3op5
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:gjw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:gjw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:345pgg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:345pgg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:ophrtkh
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:ophrtkh
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:fweowf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:fweowf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:343fg3
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:343fg3
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:pokerre
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:pokerre
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:wopfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:wopfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:kmerpg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:kmerpg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:eree
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:eree
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:kerpge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:kerpge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:erge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:erge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rger]:quit?
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:erg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[th]:gerg
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ reg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ reg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:erger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:erger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:o4pog
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:o4pog
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:kw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:kw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:tohkrt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:tohkrt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:okger\
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:okger\
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:ogrwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:ogrwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[reg]:quit
+=================== reg exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gdf join chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ e join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ thtr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ thtr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[thtr]:fwerfg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[thtr]:fwerfg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[thtr]:fopfwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[thtr]:fopfwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[thtr]:fgwpf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[thtr]:fgwpf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[e]:wfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[e]:wfwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[e]:fwefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[e]:fwefwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[e]:quit
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ we join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rtyh join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ rtyh join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rtyh]:eerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rtyh]:eerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rtyh]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rtyh]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rtyh]:egk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rtyh]:egk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[rtyh]:quit?
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ erg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ erg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:quit
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ dfg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gdfgd join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gdfgd join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:erg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:erg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:geprg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:geprg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:okghg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:okghg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:gketp
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:gketp
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfg]:htjg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfg]:htjg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfg]:kthtk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfg]:kthtk
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfg]:oergerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfg]:oergerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[dfg]:quit
+=================== dfg exit chatroom====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gdfgd]:erg
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gdg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gegr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gegr join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gegr]:ger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gegr]:ger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gegr]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gegr]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gegr]:quit
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ jerrpg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ jerrpg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ eg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ eg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:gerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:htr
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:htr
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:rthw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:rthw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:wefggg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:wefggg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[jerrpg]:hrth
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[jerrpg]:hrth
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[jerrpg]:egerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[jerrpg]:egerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[jerrpg]:gerer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[jerrpg]:gerer
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:htrh
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:htrh
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:hrtrt
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[eg]:hrtrt
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:wefwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:wefwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:gergerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:gergerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:mrgwfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:mrgwfw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:gfwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:gfwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:wrjge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:wrjge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:ogerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:ogerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:wgker
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:wgker
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:opfkwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:opfkwf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:kegerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:kegerg
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ we join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ werf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ werf join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:frf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:frf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:okrtg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:okrtg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:oerffq
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:oerffq
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:wf fowefwef fwef]
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[werf]:wf fowefwef fwef]
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:werffw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:werffw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:erp fkf
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[we]:erp fkf
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ds join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ffwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ffwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:weew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:weew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:oprge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:oprge
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:ogegw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:ogegw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ds]:fwefwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ds]:fwefwefw
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ffwe]:rfe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ere join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ ere join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ere]:gerger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ere]:gerger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ere]:erger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[ere]:erger
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ uih join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ iu join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ iu join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:rg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:rg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:ergerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:ergerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:wfwefjw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:wfwefjw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:gvgjew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:gvgjew
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:f
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:f
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:gerpgerger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:gerpgerger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:giogbjetpgb
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iu]:giogbjetpgb
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:iogrg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:iogrg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:ekgegj
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:ekgegj
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:ioerjgerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:ioerjgerg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:ergrg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:ergrg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== iu exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:fefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[uih]:jergjr
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:fwefw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:========
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:========
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwefw]:ger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwefw]:ger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:======
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:======
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== fwe exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwefw]:ger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:om ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:wef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:wef
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:wef
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:yj
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:yj
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:tw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:tw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:hrh
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:hrh
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wef exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:======
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wef exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ wef join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ iojger join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ iojger join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iojger]:jopfgfpwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iojger]:jopfgfpwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iojger]:gopegjerjger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iojger]:gopegjerjger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iojger]:fiowejfjwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[iojger]:fiowejfjwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:ewgwfgw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[wef]:ewgwfgw
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== wef exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ erg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gerg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ gerg join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:erger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:erger
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:gererg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[gerg]:gererg
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwe
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ erge join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[erge]:tgre
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[erge]:tgre
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[erge]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[erge]:fwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== erge exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fefw join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fefw]:wef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fefw]:fwef
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fefw]:fwef
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test1 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test2 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test3 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test3 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ test3 join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test1]:hello
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:hi
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:hi
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test2]:hi
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test3]:ha
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test3]:ha
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[test3]:ha
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test1 exit chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test1 exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+=================== test2 exit chatroom ====================
+
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:
+================ fwe join chatroom ====================
+
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwefwe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwewe
+join time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
+message:[fwe]:fwew
+exit time:Thu Jan  1 08:00:00 1970
+	IP address:127.0.0.1
