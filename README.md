@@ -1,4 +1,5 @@
-# 常用的 socket 有兩種，SOCK_STREAM( for TCP )、SOCK_DGRAM( for UDP )，這次的實作是使用 TCP 的 socket 來做一個簡單的聊天室
+# chatroom_C
+* 常用的 socket 有兩種，SOCK_STREAM( for TCP )、SOCK_DGRAM( for UDP )，這次的實作是使用 TCP 的 socket 來做一個簡單的聊天室
 
 ## Server主要功能
 1. 在特定的 port 上進行監聽，等待 client 端連線
